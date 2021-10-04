@@ -50,3 +50,18 @@
 
 *   Writing Annotation app turbo module development, JNI and C++ programming for calling Linux framebuffer resources to shorten UI response time by 60%-70%, comparing with using Android surface view method.
 
+## Projects
+
+[Deep Fakes Lightning](https://github.com/KevinHuang619/deepfakes_lightning) - A open source deep-fakes project, for study purpose of deep learning, based on pytorch lightning.
+
+## Programming skills
+
+* Python
+
+* Pytorch & Pytorch Lightning
+
+* C & C++
+
+* Java
+
+* Javascript
