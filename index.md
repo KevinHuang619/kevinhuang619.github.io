@@ -34,9 +34,9 @@
 
 *    Virtual Human Face Synthesis with conditional GAN.
 
-*    Virtual Human Face Edit with StyleGAN.
+*    Virtual Human Face Edit with style-based GAN.
 
-*    Virtual Human Face Swap pipeline.
+*    Virtual Human Face Swap pipeline for images and videos.
 
 *    Virtual Human LipSync project with 3D face model.
 
