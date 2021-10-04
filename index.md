@@ -1,4 +1,4 @@
-# Kevin's personal website
+# Kevin's homepage
 
 > Keep tuning...
 
