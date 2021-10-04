@@ -1,41 +1,55 @@
----
-layout: default
----
+# Kevin personal website
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Stay tuning...
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
+## Profile
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+## Education
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+MSc in Electornic Information Engineering
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+City University of Hong Kong
+
+2018 - 2019
+
+BSc in Intergrated Circuits Design and Intergrated Systemn
+
+Shenzhen University
+
+2011 - 2015
+
+## EXPERIENCES
+
+AI Developer
+
+
+2019.10 - Present
+
+PANTHEON LAB, HONG KONG
+
+Train Conditional GAN network to synthesize faces with different facial attributes.
+
+Redesign a style based GAN architecture to achieve amazing face-editing function.
+
+Design a One-Shot learning video Face-swapping pipeline based on auto-encoder model architecture.
+
+Develop an end-to-end Background matting training pipeline in pytorch-lightning.
+
+Android System Developer
+
+2015.07 - 2017.11
+
+SHENZHEN KTC TECHNOLOGY CO., LTD.
+
+MStar 6A828/6A838 series Android development, including Android TV apps, Android Launcher app, Whiteboard app, Writing Annotation app, etc.
+
+Linux embedded system development, based on MStar Supernova API, including C/C++ programming on MStar TV hardware resources module for JNI API calling and SQLite dataset.
+
+Writing Annotation app turbo module development, JNI and C++ programming for calling Linux framebuffer resources to shorten UI response time by 60%-70%, comparing with using Android surface view method.
 
 #### Header 4
 
