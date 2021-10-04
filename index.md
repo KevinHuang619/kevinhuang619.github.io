@@ -32,13 +32,13 @@
 
 > AI Developer, 2019.10 - 2021.04
 
-*    Train Conditional GAN network to synthesize faces with different facial attributes.
+*    Virtual Human Face Synthesis with conditional GAN.
 
-*    Redesign a style based GAN architecture to achieve amazing face-editing function.
+*    Virtual Human Face Edit with StyleGAN.
 
-*    Design a One-Shot learning video Face-swapping pipeline based on auto-encoder model architecture. 
+*    Virtual Human Face Swap pipeline.
 
-*    Develop an end-to-end Background matting training pipeline in pytorch-lightning.
+*    Virtual Human LipSync project with 3D face model.
 
 **SHENZHEN KTC TECHNOLOGY CO., LTD.**
 
