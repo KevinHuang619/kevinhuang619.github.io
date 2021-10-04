@@ -1,12 +1,12 @@
-# Kevin personal website
+# Kevin's personal website
 
-> Stay tuning...
+> Keep tuning...
 
 ## Profile
 
-> Hi there~ This is Kevin's website. I'm a R&D engineer in SmartMore company. 
+> Hi there~ This is Kevin's website. I'm a R&D engineer in SmartMore company. My research interests include: 
 
-> My research interests include: Generative Adversarial Network, Video Enhancement, Virtual Human, etc..
+> Generative Adversarial Network, Video Enhancement, Virtual Human, etc..
 
 ## Education
 
